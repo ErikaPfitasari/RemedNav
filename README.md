@@ -1,7 +1,9 @@
 ## Identitas
 * Nama Lengkap : Erika Prafitasari Rotinsulu
+* Kelas : XI RPL 5
 * No. Absen : 10
-* Kelas : xi rpl 5
+* NIS : 4703
+
 
 ## Screenshot
 <p align="center">
